@@ -19,4 +19,4 @@ else:
     print("Volte Sempre.")
 
 if opcao == 2:
-    quit
+    quit  
