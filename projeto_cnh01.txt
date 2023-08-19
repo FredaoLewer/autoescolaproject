@@ -1,0 +1,1 @@
+opcao = int(input("Informe uma opção: [1]Informar Idade \n[2] Sair: "))
